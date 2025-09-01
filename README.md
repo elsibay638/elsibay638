@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 Software Engineering Student
 - 💻 Interested in Web Development (Frontend & Backend)
-- - 💻 Interested in Network engineering
+- 💻 Interested in Network engineering
 - 🚀 Learning modern technologies to build creative projects
 - 📚 Always improving my coding skills
 
