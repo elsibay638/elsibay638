@@ -3,6 +3,7 @@
 ## About Me
 - 🎓 Software Engineering Student
 - 💻 Interested in Web Development (Frontend & Backend)
+- - 💻 Interested in Network engineering
 - 🚀 Learning modern technologies to build creative projects
 - 📚 Always improving my coding skills
 
@@ -24,3 +25,4 @@
 ![XML](https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
